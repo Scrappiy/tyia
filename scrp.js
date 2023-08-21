@@ -1,0 +1,1 @@
+window.location = "https://scrappiy.github.io/ADV/";
